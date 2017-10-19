@@ -4,7 +4,7 @@ def speak_to_grandma (input="HUH?! SPEAK UP, SONNY!")
   unless input.upcase == input
     puts "HUH?! SPEAK UP, SONNY!"
   else
-    puts input
+    puts "NO, NOT SINCE 1938!"
   end
 end
 
