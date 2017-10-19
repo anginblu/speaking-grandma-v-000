@@ -5,6 +5,8 @@ def speak_to_grandma (input="HUH?! SPEAK UP, SONNY!")
     puts "NO, NOT SINCE 1938!"
   elsif
     puts "HUH?! SPEAK UP, SONNY!"
+  else
+    
   end
 end
 
