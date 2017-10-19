@@ -6,6 +6,7 @@ def speak_to_grandma (input="HUH?! SPEAK UP, SONNY!")
   else
     puts input
   end
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
